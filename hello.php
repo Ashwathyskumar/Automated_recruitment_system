@@ -1,0 +1,1 @@
+$sql2 = "INSERT INTO pj (cname, email,caddress,qual,exp,bsalary) VALUES('$cname', '$email', '$caddress','$qual','$exp','$bsalary')";
